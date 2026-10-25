@@ -1,1 +1,12 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.diamond.vpn",
+      "sha256_cert_fingerprints": [
+        "20:BB:CD:DC:05:EF:D6:A2:8D:4F:F1:65:27:63:2D:E6:25:8D:78:D1:33:7F:2E:43:2A:C6:0F:B0:0C:6D:79:B8"
+      ]
+    }
+  }
+]
